@@ -1,14 +1,12 @@
 v 1.0
 d TORTUGAPALETTE: A collection of palettes for Stata plot.
 d
-d
 d Lorenzo Pedretti 
 d Tortuga and UniBocconi
 d
 d lorenzo.pedretti@studbocconi.it
-l personal-site https://pedretti.netlify.app/
+d personal site: https://pedretti.netlify.app/
 d
-d Distribution date: 08 Apr. 2022
-d
+d Distribution-Date: 20220408
 d
 p tortugapalette
