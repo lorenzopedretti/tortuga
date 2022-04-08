@@ -1,0 +1,10 @@
+* Tortuga (Lorenzo Pedretti) v.1.0
+
+#include s2color
+
+color p1 "246 139 40"
+color p2 "40 147 246"
+color p3 "44 168 120"
+color p4 "204 27 245"
+color refline "40 147 246"
+color background white
