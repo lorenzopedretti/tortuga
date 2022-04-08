@@ -1,4 +1,4 @@
-v 1.0
+v 1.1
 d TORTUGAPALETTE: A collection of palettes for Stata plot.
 d
 d
