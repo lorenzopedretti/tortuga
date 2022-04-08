@@ -6,5 +6,5 @@ color p1 "246 139 40"
 color p2 "40 147 246"
 color p3 "44 168 120"
 color p4 "204 27 245"
-color refline "40 147 246"
+color xyline "222 91 24"
 color background white
