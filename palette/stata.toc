@@ -1,4 +1,4 @@
-v 1.1
+v 1.0
 d TORTUGAPALETTE: A collection of palettes for Stata plot.
 d
 d
@@ -11,4 +11,4 @@ d
 d Distribution date: 08 Apr. 2022
 d
 d
-p tortugapalette Tortuga Palette schemes
+p tortugapalette
