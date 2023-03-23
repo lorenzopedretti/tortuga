@@ -7,7 +7,7 @@ d
 d lorenzo.pedretti@studbocconi.it
 d personal site: https://pedretti.netlify.app/
 d
-d Special thanks to Chiara Soriolo for the useful suggestions.
+d Special thanks to Chiara Soriolo for useful suggestions that helped improving this package.
 d
 d Distribution-Date: 20230323
 d
