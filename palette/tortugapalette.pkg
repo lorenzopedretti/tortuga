@@ -1,5 +1,6 @@
-v 1.2
+v 2.0
 d TORTUGAPALETTE
 d Lorenzo Pedretti (UniBocconi and Tortuga)
 f scheme-tortuga_arlecchino.scheme
 f tortugapalette.sthlp
+f scheme-tortuga_classic.scheme
