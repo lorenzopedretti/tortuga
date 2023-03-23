@@ -1,6 +1,6 @@
 {smcl}
 {hi:help tortugapalette}{...}
-{right:{browse "https://github.com/lorenzopedretti/tortuga":tortugapalette v1 (GitHub)}}
+{right:{browse "https://github.com/lorenzopedretti/tortuga":tortugapalette v2 (GitHub)}}
 
 {hline}
 
@@ -15,14 +15,17 @@
 
 {it:Series:}
     Arlecchino - {stata set scheme tortuga_arlecchino}
+    
+{it:Series:}
+    Classic - {stata set scheme tortuga_classic}
 
 2. Download Poppins font, generate a new graph. Go to Edit>Preferences and set Poppins as a font.
 
 {hline}
 
 Keywords: Stata, graphs, schemes
-Version: {bf:tortugapalette} version 1 
-Date: 08 Apr. 2021
+Version: {bf:tortugapalette} version 2
+Date: 23 March 2023
 License: {browse "https://opensource.org/licenses/MIT":MIT}
 
 Author: {browse "https://pedretti.netlify.app/":Lorenzo Pedretti} (UniBocconi and Tortuga)
