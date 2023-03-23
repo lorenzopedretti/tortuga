@@ -20,6 +20,8 @@
     Classic - {stata set scheme tortuga_classic}
 
 2. Download Poppins font, generate a new graph. Go to Edit>Preferences and set Poppins as a font.
+A quick way to do it is to download the font and then install it (available {browse "https://fonts.google.com/specimen/Poppins":here}). Finally you have to set it as Stata font for plots through
+{stata graph set window fontface "Poppins"}
 
 {hline}
 
