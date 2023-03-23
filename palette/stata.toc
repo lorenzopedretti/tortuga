@@ -1,4 +1,4 @@
-v 2.0
+v 2.1
 d TORTUGAPALETTE: A collection of palettes for Stata plot.
 d
 d Lorenzo Pedretti 
